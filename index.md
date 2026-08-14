@@ -9,9 +9,9 @@ series: Trinitatiszeit 2023
 summary: "Wer Jesus einlädt, muss mit Überraschungen rechnet. Und wenn du siehst, wen er einlädt, kommst du aus dem Staunen gar nicht mehr heraus."
 source: pfarrplaner
 source_id: "393@www.pfarrplaner.de"
-cover: cover.
+cover: und-sei-unser-gast.jpg
 cover_alt: "Titelbild zur Predigt \"Und sei unser Gast\"."
-audio: audio.mp3
+audio: und-sei-unser-gast.mp3
 audio_duration: "12:58"
 legacy_id: 393
 events:
